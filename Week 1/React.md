@@ -66,48 +66,26 @@ Now, open your browser and visit:
 
 
 You’ll see your new React app running with a default welcome screen. 🎉
+![image](https://github.com/user-attachments/assets/9b4703be-1ae1-42bc-8605-984f86342058)
+
 
 Congratulations! You're ready to start building with React.
 
 **🗂️ 4. Project Structure Overview**
 
-Here’s a quick overview of the default project structure in a new React app:
+Here’s a brief overview of the files and directories in a new React project:
 
-perl
-
-CopyEdit
-
-my-app/
-
-├── node_modules/ # Project dependencies
-
-├── public/ # Public assets and index.html
-
-├── src/ # React components and logic
-
-│ ├── App.js # Main App component
-
-│ └── index.js # Entry point of the app
-
-├── package.json # Project metadata and dependencies
-
-├── package-lock.json # Version locking for dependencies
-
-└── README.md # Project description and instructions
+node modules/: Contains all the dependencies and modules installed.
+public/: Contains the public assets of the application, including the index.html file.
+src/: Contains the React components and other source code.
+App.js: The main component of your application.
+index.js: The entry point of your React application.
+package. Json: Contains metadata about your project and lists dependencies.
+package-lock. Json: Locks the versions of your dependencies.
 
 **💬 Support and Help**
 
 If you face any issues during installation or setup, don’t worry! Reach out on our **WhatsApp group** for support and peer help. 🙌
-
-**🔜 What’s Next?**
-
-Stay tuned for our **React.js beginner tutorials**, coming next week, where you’ll learn about:
-
-- Components
-- Props and State
-- Hooks
-- Routing
-- Building real-world apps
 
 👨‍💻 Created with ❤️ by **WnCC**  
 _(Web and Coding Club)_
