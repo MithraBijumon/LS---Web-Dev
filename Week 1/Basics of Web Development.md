@@ -50,11 +50,11 @@ Note that you must know the basics of both and then can delve deeper into any on
 
 During the next **four weeks**, we’ll learn how to:  
 
-- Build interactive interfaces with **React**\
+- Build interactive interfaces with **React**
 
-- Handle server-side logic using **Django**\
+- Handle server-side logic using **Django**
 
-- Style our projects using **modern CSS frameworks**\
+- Style our projects using **modern CSS frameworks**
 
 - Integrate backends using **databases**
 
@@ -69,7 +69,7 @@ During the next **four weeks**, we’ll learn how to:
   - ! → Hit enter after typing this in an HTML file to get a ready-to-go template.
   - lorem → Auto-generates dummy text. Add a number like lorem25 for 25 words.
 - **Live Server Extension:**\
-  ` `No more refreshing the browser! Save your file and see the changes instantly in the browser.
+  - No more refreshing the browser! Save your file and see the changes instantly in the browser.
 
 Now that you have your text editors ready, you can start writing your HTML and CSS codes. Go through the *HTML and CSS* section to learn more.
 
