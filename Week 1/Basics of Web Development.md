@@ -84,7 +84,9 @@ But before you dive in, make sure you’re comfortable with all the concepts cov
 
 Get ready to create the kind of websites you've always admired — practise and do as many assignments as you can for each section to gain mastery.
 
-<p style="width: 100%; text-align: center;">Created with ❤️ by WnCC</p>
+<div style="text-align: center;">
+  <p>Created with ❤️ by WnCC</p>
+</div>
 
 
 
