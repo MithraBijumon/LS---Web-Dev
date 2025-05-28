@@ -30,12 +30,11 @@ Git and github are related in the same way as a word document and google docs!
 
 ![](./Pictures/Pic1.png)
 
-![](Aspose.Words.d9d6c94a-b526-4eb7-9092-1122d8eb37c7.002.png)
+![](./Pictures/Pic2.png)
 
 Select [On the Desktop] option if you want to see its icon on the desktop.
 
-![](Aspose.Words.d9d6c94a-b526-4eb7-9092-1122d8eb37c7.003.png)
-
+![](./Pictures/Pic3.png)
 This is another additional change you are advised to do…
 
 And continue the rest with the default settings…
@@ -52,8 +51,8 @@ Once Git is installed, open **Git Bash**, the command-line tool for Git.
 
 - To open it: type **“Git Bash”** in the search bar (Windows).
 
-![](Aspose.Words.d9d6c94a-b526-4eb7-9092-1122d8eb37c7.004.png)\
-*![](Aspose.Words.d9d6c94a-b526-4eb7-9092-1122d8eb37c7.005.png)*
+![](./Pictures/Pic4.png)
+![](./Pictures/Pic5.png)
 
 This is where you’ll commit files into your **local repositories**, before pushing them to **remote repositories** (like GitHub).
 ## <a name="_omgkoe5kdrgn"></a>**Git Setup (First-time users)**
@@ -65,7 +64,7 @@ git config --global user.email "you@example.com"
 
 For official setup instructions, see:[ ](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)[Git Setup – git-scm.com](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
 
-![](Aspose.Words.d9d6c94a-b526-4eb7-9092-1122d8eb37c7.006.png)
+![](./Pictures/Pic6.png)
 ## <a name="_3kiw7pzbjq81"></a>**Common Git Commands**
 🖼 *[Insert Git command list screenshot]*
 
