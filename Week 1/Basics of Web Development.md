@@ -1,4 +1,4 @@
-﻿**Networking Basics**
+## <a name="_wa32ptvtlsmu"></a>﻿**Networking Basics**
 
 Before we dive into building websites and apps, let’s get a quick look at how communication happens over the internet. Think of it like a digital conversation — your browser sends a message (called a request) to a server, and the server replies with the information you asked for. Simple, right?
 
