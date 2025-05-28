@@ -71,7 +71,7 @@ During the next **four weeks**, we’ll learn how to:
 - **Live Server Extension:**
   - No more refreshing the browser! Save your file and see the changes instantly in the browser.
 
-Now that you have your text editors ready, you can start writing your HTML and CSS codes. Go through the [HTML and CSS](./HTML+CSS) section to learn more.
+Now that you have your text editors ready, you can start writing your HTML and CSS codes. Go through the [HTML and CSS](Week 1/HTML + CSS.md) section to learn more.
 
 Now that you can make beautiful static sites, let’s make it responsive and dynamic using Javascript. Go through this link to learn more - *Javascript*
 
