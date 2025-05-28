@@ -49,6 +49,7 @@ Here are some material for basic CSS
 1. <https://www.geeksforgeeks.org/css-for-web-design/> - For a quick one page intro to CSS
 
 
+## <a name="_wa32ptvtlsmu"></a>﻿ **Extra Resources**
 If you understand better through videos, then you may use the videos below for your learning. 
 
 **English** 
