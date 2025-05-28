@@ -1,7 +1,7 @@
 ﻿**Go through the HTML and then CSS. While looking through HTML if you come across any “Style” section skip it and come back once CSS is done.** 
 
 
-**HTML**
+#**HTML**
 
 **HTML is the structure of your website.**
 
