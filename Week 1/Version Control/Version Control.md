@@ -34,8 +34,8 @@ Git and github are related in the same way as a word document and google docs!
 
 Select [On the Desktop] option if you want to see its icon on the desktop.
 
-![](./Pictures/Pic3.png)
-This is another additional change you are advised to do…
+![](./Pictures/Pic3.png) 
+</br>This is another additional change you are advised to do…
 
 And continue the rest with the default settings…
 ### <a name="_b0l2ozu26r0p"></a>**For macOS:**
