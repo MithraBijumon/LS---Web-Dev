@@ -28,7 +28,7 @@ Git and github are related in the same way as a word document and google docs!
   ](https://git-scm.com/download/win)
 - Run the installer with default settings.
 
-![](Aspose.Words.d9d6c94a-b526-4eb7-9092-1122d8eb37c7.001.png)
+![](./Pictures/Pic1.png)
 
 ![](Aspose.Words.d9d6c94a-b526-4eb7-9092-1122d8eb37c7.002.png)
 
