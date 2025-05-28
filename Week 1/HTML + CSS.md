@@ -1,7 +1,7 @@
 ﻿**Go through the HTML and then CSS. While looking through HTML if you come across any “Style” section skip it and come back once CSS is done.** 
 
 
-#**HTML**
+## <a name="_wa32ptvtlsmu"></a>﻿**HTML**
 
 **HTML is the structure of your website.**
 
@@ -23,10 +23,10 @@ Here are some material for basic HTML
 
 1. <https://www.geeksforgeeks.org/html-basics/?ref=lbp> - Do all pages with a few exceptions as below.
 
-   Except - Text formatting, Quotations, Iframes, 
+   Except - Text formatting, Quotations, Iframes 
 
 
-**CSS**
+## <a name="_wa32ptvtlsmu"></a>﻿**CSS**
 
 **CSS styles your HTML content—fonts, colors, layouts, animations.**
 
@@ -68,7 +68,7 @@ Remember that CSS and HTML are vast concepts and if you want to dive deeper into
 
 1. <https://web.dev/learn/html/>
 
-<https://web.dev/learn/css>
+   <https://web.dev/learn/css>
 
 1. <https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics>
 
