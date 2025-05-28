@@ -31,7 +31,9 @@ Git and github are related in the same way as a word document and google docs!
 ![](Aspose.Words.d9d6c94a-b526-4eb7-9092-1122d8eb37c7.001.png)
 
 ![](Aspose.Words.d9d6c94a-b526-4eb7-9092-1122d8eb37c7.002.png)
+
 Select [On the Desktop] option if you want to see its icon on the desktop.
+
 ![](Aspose.Words.d9d6c94a-b526-4eb7-9092-1122d8eb37c7.003.png)
 
 This is another additional change you are advised to do…
