@@ -64,11 +64,11 @@ During the next **four weeks**, we’ll learn how to:
 - **Visual Studio Code (VS Code) –** Our official editor for the sessions
 - **Others you may try:** Sublime Text, Notepad/TextEdit (for quick edits)
 ### <a name="_587pb12jijj9"></a>**Quick Productivity Boosters in VS Code**
-- **Emmet Shortcuts (built into VS Code!):**\
+- **Emmet Shortcuts (built into VS Code!):**
 
   - ! → Hit enter after typing this in an HTML file to get a ready-to-go template.
   - lorem → Auto-generates dummy text. Add a number like lorem25 for 25 words.
-- **Live Server Extension:**\
+- **Live Server Extension:**
   - No more refreshing the browser! Save your file and see the changes instantly in the browser.
 
 Now that you have your text editors ready, you can start writing your HTML and CSS codes. Go through the *HTML and CSS* section to learn more.
