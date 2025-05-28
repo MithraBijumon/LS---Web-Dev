@@ -76,7 +76,7 @@ Now that you have your text editors ready, you can start writing your HTML and C
 Now that you can make beautiful static sites, let’s make it responsive and dynamic using Javascript. Go through this link to learn more - *Javascript*
 
 
-**What's Next?**
+## <a name="_wa32ptvtlsmu"></a>**What's Next?**
 
 We’ll now move ahead with the **frontend framework: React.js**. It will give you hands-on experience with how modern websites are built and help you understand what more you need to know in **JavaScript** to work effectively with React.
 
@@ -84,6 +84,7 @@ But before you dive in, make sure you’re comfortable with all the concepts cov
 
 Get ready to create the kind of websites you've always admired — practise and do as many assignments as you can for each section to gain mastery.
 
+<p style="text-align: center;">Created with ❤️ by WnCC</p>
 
 
 
