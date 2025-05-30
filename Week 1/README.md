@@ -26,7 +26,7 @@ Start here:
 - Create a GitHub account
 - Try making your first repository!
 ## <a name="_agyon2ih7on8"></a>**3. React Setup (Very Important 🚨)**
-By the end of this week, ensure that you have:
+By the end of this week, ensure that you have [Setup React](./ReactInstallation.md):
 
 - Installed Node.js and npm
 - Set up React
