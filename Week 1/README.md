@@ -12,7 +12,7 @@ Start by reading through the [Basics of Web Development](./Basics%20of%20Web%20D
 💡 **Tip**: Don’t just read — **code along and experiment** in your editor.
 
 ## <a name="_85lsau2ak8m0"></a>**2. Version Control (Git & GitHub)**
-Learn the basics of [Version Control](Week20%1/Version20%Control/Version20%Control.md): 
+Learn the basics of [Version Control](Week%201/Version%20Control/Version%20Control.md): 
 
 - Creating local repositories
 - Making commits
