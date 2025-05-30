@@ -22,7 +22,7 @@ React simplifies building modern front-end apps by efficiently updating and rend
 
 
 
-🌐 Websites to Follow (React intro, get started,upgrade,ES6,render html,jsx,components,class):
+#🌐 Websites to Follow (React intro, get started,upgrade,ES6,render html,jsx,components,class):
 
 W3Schools – React.js
  https://www.w3schools.com/react/default.asp 
