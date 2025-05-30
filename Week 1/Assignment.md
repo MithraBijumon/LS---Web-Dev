@@ -42,18 +42,18 @@ Showcase key moments in your IITB journey — from Day 1 to now.
 Include images, anecdotes, events, and milestones like fests, courses, internships, or hostel memories.
 
 
-Learnings and Growth
+<h3>Learnings and Growth</h3>
 Highlight personal and academic growth. Mention important skills you’ve gained, clubs joined, or projects completed.
 
 
 May include infographics or stats (e.g., number of credits completed, favorite courses, etc.).
 
 
-Photo Gallery or Video Section
+<h3>Photo Gallery or Video Section</h3>
 Add a section that displays photos or videos from your journey using a grid or slideshow format.
 
 
-Interactive Element
+<h3>Interactive Element</h3>
 Include an interactive element using JavaScript. Examples:
 
 
@@ -72,7 +72,7 @@ A basic form where JavaScript validates and stores data (can be local for demo).
 
 
 
-Footer
+<h3>Footer</h3>
 Include relevant links (e.g., IITB official website, department page, your social profiles).
 
 
