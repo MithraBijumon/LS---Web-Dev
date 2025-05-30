@@ -1,4 +1,5 @@
-⚡️ Week 1: JavaScript Basics – Let's Bring Webpages to Life!
+<h1>⚡️ Week 1: JavaScript Basics – Let's Bring Webpages to Life!</h1>
+
 Welcome to Week 1 of your course on Web Development with JavaScript!
  Now that you're comfortable with HTML and CSS, it's time to learn JavaScript—the engine behind interactivity on modern websites.
 JavaScript is a high-level, interpreted programming language used to build dynamic, responsive, and user-friendly websites. With it, you can create popups, animations, form validations, and even entire applications directly in the browser.
