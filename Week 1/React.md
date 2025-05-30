@@ -1,4 +1,4 @@
-**📘 React.js Installation Guide for Students**
+<h1>**📘 React.js Installation Guide for Students**</h1>
 
 **🎯 Introduction**
 
