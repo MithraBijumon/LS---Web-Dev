@@ -16,7 +16,7 @@ Start by reading through the [Basics of Web Development](./Basics%20of%20Web%20D
 - **Review and improve** based on feedback.
 
 👥 Code reviews are a great way to grow. Learn from others, and help them too.
-## <a name="_85lsau2ak8m0"></a>**3. Version Control (Git & GitHub)**
+## <a name="_85lsau2ak8m0"></a>**2. Version Control (Git & GitHub)**
 Learn the basics of version control:
 
 - Creating local repositories
@@ -30,7 +30,7 @@ Start here:
 - Install Git
 - Create a GitHub account
 - Try making your first repository!
-## <a name="_agyon2ih7on8"></a>**4. React Setup (Very Important 🚨)**
+## <a name="_agyon2ih7on8"></a>**5. React Setup (Very Important 🚨)**
 By the end of this week, ensure that you have:
 
 - Installed Node.js and npm
