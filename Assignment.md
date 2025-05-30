@@ -31,11 +31,11 @@ Header with Navigation Bar
 Include the title of your website and a navigation menu for easy access to different sections.
 
 
-Introduction
+#Introduction
 A short introduction about yourself and a summary of your journey at IITB so far.
 
 
-Timeline / Milestones
+<h3>Timeline / Milestones
 Showcase key moments in your IITB journey — from Day 1 to now.
 
 
