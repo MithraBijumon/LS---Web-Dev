@@ -10,14 +10,9 @@ Start by reading through the [Basics of Web Development](./Basics%20of%20Web%20D
 - Role of HTML, CSS, JavaScript
 
 💡 **Tip**: Don’t just read — **code along and experiment** in your editor.
-## <a name="_ax3bbgjnn9by"></a>**2. Practice by Building**
-- Try making a **simple webpage** (e.g., a personal profile).
-- Show it to your peers.
-- **Review and improve** based on feedback.
 
-👥 Code reviews are a great way to grow. Learn from others, and help them too.
 ## <a name="_85lsau2ak8m0"></a>**2. Version Control (Git & GitHub)**
-Learn the basics of version control:
+Learn the basics of [Version Control](Week20%1/Version20%Control/Version20%Control.md): 
 
 - Creating local repositories
 - Making commits
@@ -30,14 +25,14 @@ Start here:
 - Install Git
 - Create a GitHub account
 - Try making your first repository!
-## <a name="_agyon2ih7on8"></a>**5. React Setup (Very Important 🚨)**
+## <a name="_agyon2ih7on8"></a>**3. React Setup (Very Important 🚨)**
 By the end of this week, ensure that you have:
 
 - Installed Node.js and npm
 - Set up React
 
 We’ll dive into React in **Week 2**, so get this out of the way now to avoid delays later.
-## <a name="_jjw75fui1fxd"></a>**6. Assignment**
+## <a name="_jjw75fui1fxd"></a>**4. Assignment**
 At the end of the week, complete the **Week 1 Assignment**. It will test your understanding of:
 
 - HTML/CSS basics
@@ -46,7 +41,7 @@ At the end of the week, complete the **Week 1 Assignment**. It will test your un
 - React setup
 
 Submit it before the deadline 🕒
-## <a name="_s94um4hau2y9"></a>**7. Extra Practice (Optional)**
+## <a name="_s94um4hau2y9"></a>**5. Extra Practice (Optional)**
 Feeling motivated?\
 ` `Download the **Practice Folder** for more hands-on tasks.
 ### <a name="_on1gz333rr1g"></a>**How to Download:**
@@ -57,6 +52,13 @@ Feeling motivated?\
 1. Open it in **Visual Studio Code**.
 
 Then just start editing the files to match the goal.png inside each folder!
+## <a name="_ax3bbgjnn9by"></a>**2. Practice by Building**
+- Try making **simple webpages** (e.g., a personal profile).
+- Show it to your friends.
+- **Review and improve** based on feedback.
+
+👥 Code reviews are a great way to grow. Learn from others, and help them too.
+
 ## <a name="_ea1w49szz047"></a>**Week 1 Summary Checklist**
 - Read and understood web dev basics
 - Learned basic Git + GitHub
