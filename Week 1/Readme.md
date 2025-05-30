@@ -1,9 +1,9 @@
 ﻿# <a name="_i5lubete7x72"></a>**WEEK ONE: Getting Started with Web Development**
 Hello everyone! 👋\
-` `We’re thrilled to have you start your web development journey with us. This week is all about laying the **foundations**—understanding the basics, setting up your tools, and preparing for the exciting weeks ahead.
+We’re thrilled to have you start your web development journey with us. This week is all about laying the **foundations**—understanding the basics, setting up your tools, and preparing for the exciting weeks ahead.
 
 ## <a name="_2rspjka1m6i0"></a>**1. Basics of Web Development**
-Start by reading through the **"Basics of Web Development"** section in the main guide. Focus on understanding:
+Start by reading through the [Basics of Web Development](./Basics%20of%20Web%20Development.md) section in the main guide. Focus on understanding:
 
 - How the internet works 🌐
 - What frontend and backend mean
