@@ -56,6 +56,7 @@ Guided Project
  ▶️ How To Make A Portfolio Website Using HTML CSS JS
  Follow this tutorial to create a responsive portfolio using everything you've learned so far. It’s a great way to solidify your understanding of DOM, events, and structure.
 How To Make A Portfolio Website Using HTML CSS JS | Complete Responsive Website Design
+https://youtu.be/0YFrGy_mzjY?si=fzULaum-d3a82fhi
 
 
 🧡 Created with ❤️ by WnCC
