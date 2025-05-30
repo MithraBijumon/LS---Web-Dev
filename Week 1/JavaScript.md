@@ -14,6 +14,7 @@ web.dev – Learn JavaScript
  Link: https://web.dev/learn/javascript
 GeeksForGeeks – JavaScript Theory
  If you're looking for in-depth explanations, this is a great resource to dive deep into topics.
+ 
  Link: https://www.geeksforgeeks.org/javascript/
 W3Schools – JavaScript Tutorial
  Perfect for quickly referencing syntax and trying out examples in the browser itself.
