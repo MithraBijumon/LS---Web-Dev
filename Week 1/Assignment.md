@@ -77,15 +77,16 @@ Include relevant links (e.g., IITB official website, department page, your socia
 
 
 Add a copyright notice
-Instructions
+
+# Instructions
 Setup
-Create a new folder for your project.
+>Create a new folder for your project.
 
 
-Inside this folder, create three files: index.html, styles.css, and script.js.
+>Inside this folder, create three files: index.html, styles.css, and script.js.
 
 
-HTML Structure
+<h3>HTML Structure</h3>
 Start by creating the basic structure of your HTML document.
 
 
@@ -95,7 +96,7 @@ Add the necessary sections (Header, Introduction, Timeline, Learnings, Interacti
 Include a navigation bar in the header for easy access.
 
 
-Styling with CSS
+<h3>Styling with CSS</h3>
 Link your styles.css file to your HTML document.
 
 
@@ -105,14 +106,14 @@ Style each section of your website. Focus on layout, colors, spacing, and typogr
 Use media queries to ensure responsiveness across desktops, tablets, and mobiles.
 
 
-JavaScript Interactivity
+<h3>JavaScript Interactivity</h3>
 Link your script.js file to your HTML document.
 
 
 Add an interactive JavaScript element that enhances the user experience and makes your journey more engaging.
 
 
-Content
+<h3>Content</h3>
 Keep your content personal, concise, and engaging.
 
 
@@ -123,7 +124,7 @@ Test your site on different browsers and devices for responsiveness and usabilit
 
 
 
-Additional Tips
+# Additional Tips
 Use semantic HTML for better structure and readability.
 
 
@@ -134,17 +135,17 @@ Get creative — personalize the theme, layout, and animations to reflect your j
 
 
 
-Submission
+# Submission
 By the end of the weekend, ensure your project is complete and well-documented.
  Submit your project folder as a GitHub repository through the submission form.
  (Form link will be provided soon)
 
-Additional Resources
+# Additional Resources
 https://www.geeksforgeeks.org/complete-guide-to-flexbox/ FLEX BOX GUIDE
 
 
 https://www.w3schools.com/css/css_rwd_intro.asp
-RESPONSIVE DESIGN BASICS
+<h3>RESPONSIVE DESIGN BASICS</h3>
 NAV BAR https://www.w3schools.com/css/css_navbar.asp	
 
 
