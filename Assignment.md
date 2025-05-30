@@ -1,6 +1,6 @@
 # ASSIGNMENT (HTML + CSS + JS)
 
- # WEEKEND PROJECT :- A WEBSITE DEPICTING YOUR JOURNEY IN IIT B TILL NOW .
+ <p font-size=43>WEEKEND PROJECT :- A WEBSITE DEPICTING YOUR JOURNEY IN IIT B TILL NOW </p>
 # PROJECT OVERVIEW :- 
 Welcome to your first weekend project at Learner's Space!
 This week, you'll be creating a responsive personal website that tells the story of your journey so far at IIT Bombay. From your first experiences on campus to your academic achievements, hostel life, events, and friendships — this project will help you apply your HTML, CSS, and JavaScript skills to build a timeline-style digital scrapbook. By the end of the week, you'll have a professional-looking site with interactive features to showcase your unique IITB experience.
