@@ -1,4 +1,4 @@
-<h1 style="font-size:100%">📘 React.js Installation Guide for Students</h1>
+<h1 style="font-size:100px">📘 React.js Installation Guide for Students</h1>
 
 **🎯 Introduction**
 
