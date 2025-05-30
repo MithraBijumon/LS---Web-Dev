@@ -43,7 +43,7 @@ At the end of the week, complete the [Week 1 Assignment](./Assignment.md). It wi
 Submit it before the deadline 🕒
 ## <a name="_s94um4hau2y9"></a>**5. Extra Practice (Optional)**
 Feeling motivated?\
-Download the **Practice Folder** for more hands-on tasks.
+Download the [Practice Folder](./Practice) for more hands-on tasks.
 ### <a name="_on1gz333rr1g"></a>**How to Download:**
 1. Go to the practice folder link.
 1. Copy the repo link.
@@ -52,7 +52,7 @@ Download the **Practice Folder** for more hands-on tasks.
 1. Open it in **Visual Studio Code**.
 
 Then just start editing the files to match the goal.png inside each folder!
-## <a name="_ax3bbgjnn9by"></a>**2. Practice by Building**
+## <a name="_ax3bbgjnn9by"></a>**6. Practice by Building**
 - Try making **simple webpages** (e.g., a personal profile).
 - Show it to your friends.
 - **Review and improve** based on feedback.
