@@ -7,8 +7,10 @@ Your goal this week is to master the basic syntax and core concepts of JavaScrip
 
 📘 JavaScript Learning Resources
 Start with these structured tutorials and platforms to grasp the syntax and behavior of JavaScript:
+
 web.dev – Learn JavaScript
  A modern and clean course offered by Google, ideal for visual learners and beginners.
+ 
  Link: https://web.dev/learn/javascript
 GeeksForGeeks – JavaScript Theory
  If you're looking for in-depth explanations, this is a great resource to dive deep into topics.
