@@ -1,4 +1,4 @@
-<p font-size="50px"> Week-2 LS DEV (React.js) </p>
+<h1> Week-2 LS DEV (React.js) </h1>
 Welcome back to Week 2 of our course on Web Development with React.js! Now that you've set up React and are familiar with the basics of HTML, CSS, and JavaScript, it's time to go deeper. This week, we’ll focus on understanding the key concepts of React—components, props, state, and hooks—and begin building real-world applications.
 Our goal is to help you confidently create interactive, responsive, and reusable UI components using React.
 So, let’s dive in!
