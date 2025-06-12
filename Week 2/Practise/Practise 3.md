@@ -1,6 +1,6 @@
 ﻿## <a name="_6gqh41kkurqg"></a>**Project 3: Memory Card Matching Game**
 ### <a name="_wxi4tjuvun8e"></a>**Project Statement:**
-**Build an interactive Memory Card Game using React.**\
+**Build an interactive Memory Card Game using React.**
 In this classic game, users flip over pairs of cards to find matching symbols or images. The game reinforces React concepts like dynamic rendering, state management, conditional UI updates, and handling timed user interactions — all while being engaging and visually fun.
 ### <a name="_2n7uz4nbfaov"></a>**Learning Outcomes:**
 - Use *useState* to track dynamic game state (flipped cards, matches, moves)
@@ -29,19 +29,19 @@ In this classic game, users flip over pairs of cards to find matching symbols or
 1. **Card Shuffle on Start:**
 
    - Randomly shuffle the cards each time the game begins to ensure a fresh challenge.
-1. **Countdown Timer:**\
+1. **Countdown Timer:**
 
    - Add a timer that tracks how long the player takes to finish the game..
-1. **Theming & Emoji Packs:**\
+1. **Theming & Emoji Packs:**
 
    - Allow players to switch between different **card themes** (e.g., emojis, animals, numbers, icons)
-1. **Matched Pair Animation:**\
+1. **Matched Pair Animation:**
 
    - Add a small animation (like a glow or bounce) when a correct match is made for a more interactive feel.
-1. **Dark Mode Support:**\
+1. **Dark Mode Support:**
 
    - Include a toggle for switching between light and dark modes for eye comfort.
-1. **Win Screen with Stats:**\
+1. **Win Screen with Stats:**
 
   - At the end, show a summary screen with:
       - Time taken
