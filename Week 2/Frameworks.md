@@ -1,32 +1,32 @@
-# 🎨 CSS Frameworks
+# CSS Frameworks
 
 By now, you’ve covered the basics of **HTML, CSS, and JavaScript**, and you’ve installed **React JS**. But before jumping into React, let’s first explore **external CSS frameworks**.
 
-> 🤔 **Why?**  
+> **Why?**  
 Because frameworks like **Bootstrap** and **Tailwind CSS** help you build modern, responsive layouts **faster** and **more efficiently**. You’ll be amazed by how much time you save once you start using them!
 
 ---
 
-## 💡 Why Use a CSS Framework?
+## Why Use a CSS Framework?
 
 Here’s a quick comparison:
 
 | Feature                    | Traditional CSS | Bootstrap / Tailwind |
 |----------------------------|----------------|----------------------|
-| Time to build layouts      | ⏳ Longer       | ⚡ Much faster        |
+| Time to build layouts      |   Longer       |   Much faster        |
 | Responsiveness             | Manual media queries | Prebuilt responsive utilities |
 | Code readability           | OK             | Clean, modular classes |
 | Reusability                | Limited        | Highly reusable |
 
-> 📸 Check out the **“Images Section”** (in your resources folder) to compare two versions of the same layout:  
+> Check out the **“Images Section”** (in your resources folder) to compare two versions of the same layout:  
 > One built with conventional CSS and another with Bootstrap.  
 > See the difference yourself!
 
 ---
 
-## 🚀 Let’s Start with **Bootstrap**
+## Let’s Start with **Bootstrap**
 
-### 🧾 What is Bootstrap?
+### What is Bootstrap?
 
 Bootstrap is a **free**, open-source framework that includes prebuilt **CSS** and **JavaScript** components like:
 
@@ -41,9 +41,9 @@ It saves you from writing repetitive styles and helps you build **responsive web
 
 ---
 
-### 🔧 Setting Up Bootstrap
+### Setting Up Bootstrap
 
-#### ✅ Use the CDN (Recommended)
+#### Use the CDN (Recommended)
 
 No need to download anything! Just include the Bootstrap CDN link in your HTML:
 
