@@ -76,7 +76,7 @@ More info here: [**Bootstrap Introduction**](https://getbootstrap.com/docs/5.3/g
 #### Hindi    
 *   [Full Course](https://www.youtube.com/watch?v=wkSA9bfCmKU&list=PL0b6OzIxLPbz1cgxiH5KCBsyQij1HsPtG)
     
-*   [Make a website while learning Bootstrap]([https://www.youtube.com/watch?v=-qfEOE4vtxE](https://www.youtube.com/watch?v=DUiYVJIVNcA))
+*   [Make a website while learning Bootstrap](https://www.youtube.com/watch?v=DUiYVJIVNcA)
 
     
 
@@ -126,22 +126,29 @@ Tailwind is another modern CSS framework. Unlike Bootstrap, it doesn’t come wi
 
 ### Tailwind Resources
 
-*   [**Tailwind Docs**](https://tailwindcss.com/docs)Play with templates, copy-paste components, and start building.
+*   [**Tailwind Docs**](https://tailwindcss.com/docs) Play with templates, copy-paste components, and start building.
     
-*   **GeeksForGeeks** (Optional again — only if you're more comfortable here)
+*   [**GeeksForGeeks**](https://www.geeksforgeeks.org/css/tailwind-css/) (Optional again — only if you're more comfortable here)
     
 
 ### Tailwind Videos
 
-*   **Full Hindi Project**
-    
-*   **Hindi (Latest)** → Start from 21:00
-    
-*   **Quick Summary (English)**
+#### English
+
+*   [**Tailwind for Beginners**](https://www.youtube.com/watch?v=DenUCuq4G04)
+
+#### Hindi
+
+*   [**Tailwind in One Shot**]([https://www.youtube.com/watch?v=DenUCuq4G04](https://www.youtube.com/watch?v=_9mTJ84uL1Q))
+
+
     
 
 Summary
 ---------
-
+| Framework | When to Use                   | Key Strength                 |
+| --------- | ----------------------------- | ---------------------------- |
+| Bootstrap | Quick start, components ready | Faster layout building       |
+| Tailwind  | Utility-first, more control   | Design freedom + flexibility |
 
 Keep exploring, build your own layouts, and most importantly — **practice**.CSS frameworks are like your power tools. Use them to build beautiful, fast, and responsive websites. 
