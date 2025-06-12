@@ -99,7 +99,7 @@ Try the the following challenges using everything you learnt in react and bootst
 
 ### How to Download:
 
-1.  Go to the [Practise folder](
+1.  Go to the [Practise folder](Week%2/Practise)
     
 2.  Copy the GitHub URL
     
@@ -151,4 +151,4 @@ Summary
 | Bootstrap | Quick start, components ready | Faster layout building       |
 | Tailwind  | Utility-first, more control   | Design freedom + flexibility |
 
-Keep exploring, build your own layouts, and most importantly — **practice**.CSS frameworks are like your power tools. Use them to build beautiful, fast, and responsive websites. 
+Keep exploring, build your own layouts, and most importantly — [**Practise**](Week%2/Practise). CSS frameworks are like your power tools. Use them to build beautiful, fast, and responsive websites. 
