@@ -72,5 +72,5 @@ Remember, the goal is to build confidence and get hands-on.
 Don't worry if you don’t “get it” immediately — ask doubts, review your peers’ work, and build cool stuff. You got this 
 
 Happy coding!
-<p text-align="center">Created with ❤️ by WnCC</p>
+<p align="center">Created with ❤️ by WnCC</p>
 
