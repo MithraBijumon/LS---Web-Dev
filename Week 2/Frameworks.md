@@ -67,13 +67,13 @@ More info here: [**Bootstrap Introduction**](https://getbootstrap.com/docs/5.3/g
     
 
 ### Videos
-- English
+#English
 
 *   [Learn Bootstrap in 20 minutes](https://www.youtube.com/watch?v=eow125xV5-c&t=84s)
     
 *   [Full Course](https://www.youtube.com/watch?v=-qfEOE4vtxE)
 
-- Hindi    
+# Hindi    
 *   [Full Course](https://www.youtube.com/watch?v=wkSA9bfCmKU&list=PL0b6OzIxLPbz1cgxiH5KCBsyQij1HsPtG)
     
 *   [Make a website while learning Bootstrap]([https://www.youtube.com/watch?v=-qfEOE4vtxE](https://www.youtube.com/watch?v=DUiYVJIVNcA))
