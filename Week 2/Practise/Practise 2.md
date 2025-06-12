@@ -44,7 +44,7 @@ The app should present a series of multiple-choice questions to the user, allow 
    - Add a **countdown timer** for either:
       - Each question individually
       - The entire quiz duration
-
+<p align="center"> Created with ❤️ by WnCC </p>
 
 
 
