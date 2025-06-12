@@ -51,25 +51,33 @@ No need to download anything! Just include the Bootstrap CDN link in your HTML:
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
 ```
 
-More info here: Bootstrap Introduction (CDN)
+More info here: [**Bootstrap Introduction**](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
 
  Resources for Bootstrap
 --------------------------
 
 ### Websites (Choose One)
 
-*   [**Official Bootstrap Docs**](https://getbootstrap.com/) Focus especially on the **Utilities** section (responsiveness, spacing, colors, etc.)
+*   [**Official Bootstrap Docs**](https://getbootstrap.com/docs/5.3/getting-started/introduction/) Focus especially on the **Utilities** section (responsiveness, spacing, colors, etc.)
     
-*   **GeeksForGeeks Bootstrap** **(Optional)**Good for revision if you're already following this site.
+*   [**GeeksForGeeks Bootstrap**](https://www.geeksforgeeks.org/bootstrap/bootstrap-tutorial/) **(Optional)**
+    
+*   [**W3Schools Bootstrap**](https://www.w3schools.com/bootstrap/) **(Optional)**
+  
     
 
 ### Videos
+- English
 
-*   **Complete Components Guide** (Videos 3–20)Learn how to use navbars, modals, buttons, cards, and more.
+*   [](https://www.youtube.com/watch?v=eow125xV5-c&t=84s)
     
-*   **Hindi Project Walkthrough**Build something cool in Hindi while learning!
+*   [](https://www.youtube.com/watch?v=-qfEOE4vtxE)
+
+- Hindi    
+*   [](https://www.youtube.com/watch?v=wkSA9bfCmKU&list=PL0b6OzIxLPbz1cgxiH5KCBsyQij1HsPtG)
     
-*   **Themes & Layouts**Explore ideas and inspirations from Bootstrap’s official themes.
+*   []([https://www.youtube.com/watch?v=-qfEOE4vtxE](https://www.youtube.com/watch?v=DUiYVJIVNcA))
+
     
 
 Practice Task (Optional)
@@ -77,22 +85,25 @@ Practice Task (Optional)
 
 Build a fun project using Bootstrap!
 
-Try the **“DateWiz”** challenge:
+Try the the following challenges using everything you learnt in react and bootstrap:
 
-*   It’s like a Tinder clone for wizards and witches 
+*   Task Tracker App 
     
-*   Download the **Practice Folder**
+*   Project 2: Interactive Quiz App
     
-*   Try replicating the layout shown in the goal.png
-    
+*   Project 3: Memory Card Matching Game
+
+- Download the Practice Folder
+
+- Try replicating the layout shown in the goal.png    
 
 ### How to Download:
 
-1.  Go to the folder link
+1.  Go to the [Practise folder](
     
 2.  Copy the GitHub URL
     
-3.  Use Download Directory
+3.  Use [Download Directory](https://download-directory.github.io/)
     
 4.  Extract the ZIP
     
@@ -106,13 +117,11 @@ Tailwind is another modern CSS framework. Unlike Bootstrap, it doesn’t come wi
 
 > Example:Instead of .btn-warning, you’d write:bg-yellow-300 font-bold py-2 px-4 rounded
 
-### ⚙Setting Up Tailwind
+### Setting Up Tailwind
 
-*   **CDN (Quick Start)**Use CDN for quick testing.
+*   [**CDN (Quick Start)**](https://tailwindcss.com/docs/installation/play-cdn)
     
-*   [**Official Docs**](https://tailwindcss.com/docs/installation) (Recommended)
-    
-*   **Optional Download** if you want advanced setup.
+*   [**Optional Download**](https://tailwindcss.com/docs/installation)
     
 
 ### Tailwind Resources
@@ -134,6 +143,5 @@ Tailwind is another modern CSS framework. Unlike Bootstrap, it doesn’t come wi
 Summary
 ---------
 
-FrameworkWhen to UseKey StrengthBootstrapQuick start, components readyFaster layout buildingTailwindUtility-first, more controlDesign freedom + flexibility
 
 Keep exploring, build your own layouts, and most importantly — **practice**.CSS frameworks are like your power tools. Use them to build beautiful, fast, and responsive websites. 
