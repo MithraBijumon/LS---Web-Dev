@@ -43,3 +43,4 @@ The application should allow users to add, complete, delete, and filter tasks. T
 
 - Provide a simple toggle to switch between **Light and Dark themes**.
 - Improves accessibility and allows users to work comfortably in different lighting environments.
+<p align="center"> Created with ❤️ by WnCC </p>
