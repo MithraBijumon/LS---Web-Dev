@@ -139,7 +139,7 @@ Tailwind is another modern CSS framework. Unlike Bootstrap, it doesn’t come wi
 
 #### Hindi
 
-*   [**Tailwind in One Shot**]([https://www.youtube.com/watch?v=DenUCuq4G04](https://www.youtube.com/watch?v=_9mTJ84uL1Q))
+*   [**Tailwind in One Shot**](https://www.youtube.com/watch?v=_9mTJ84uL1Q)
 
 
     
