@@ -11,19 +11,19 @@ The application should allow users to add, complete, delete, and filter tasks. T
 ### <a name="_3snqo2bruo47"></a>**Requirements:**
 1. **Add Task:**
 
-   1. An input field and a button to add a new task.
+   - An input field and a button to add a new task.
 1. **Display Tasks:**
 
-   1. Show tasks in a list format with:
-      1. Task name
-      1. Checkbox or button to mark as completed
-      1. Button to delete a task
+   - Show tasks in a list format with:
+      - Task name
+      - Checkbox or button to mark as completed
+      - Button to delete a task
 1. **Task Filters:**
 
-   1. Buttons to filter tasks: All, Active, Completed
+   - Buttons to filter tasks: All, Active, Completed
 1. **Basic Styling:**
 
-   1. Use CSS or inline styles to make the app visually clean.
+   - Use CSS or inline styles to make the app visually clean.
 ### <a name="_175e54gwkdvk"></a>**Bonus (Optional):**
 1. **Add Due Dates & Priority Levels:**
 
@@ -34,12 +34,12 @@ The application should allow users to add, complete, delete, and filter tasks. T
 - When a task is marked as completed:
   - Apply a **strikethrough and fade effect** (reduced opacity or transparent text)
   - Automatically **move it to the bottom** of the task list for better visibility of pending tasks.
-1. ` `**Integrated Task Timer:**
+1. **Integrated Task Timer:**
 
 - Enable users to set a **countdown timer** for individual tasks.
 - Useful for focus-based productivity techniques like the **Pomodoro Method**.
 - Optionally show a “Time Remaining” indicator next to each task and trigger an alert when time is up.
-1. ` `**Dark Mode Toggle:**\
+1. **Dark Mode Toggle:**
 
 - Provide a simple toggle to switch between **Light and Dark themes**.
 - Improves accessibility and allows users to work comfortably in different lighting environments.
