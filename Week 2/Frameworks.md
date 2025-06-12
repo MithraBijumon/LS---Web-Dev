@@ -69,14 +69,14 @@ More info here: [**Bootstrap Introduction**](https://getbootstrap.com/docs/5.3/g
 ### Videos
 - English
 
-*   <a href="https://www.youtube.com/watch?v=eow125xV5-c&t=84s" />
+*   [Learn Bootstrap in 20 minutes](https://www.youtube.com/watch?v=eow125xV5-c&t=84s)
     
-*   [](https://www.youtube.com/watch?v=-qfEOE4vtxE)
+*   [Full Course](https://www.youtube.com/watch?v=-qfEOE4vtxE)
 
 - Hindi    
-*   [](https://www.youtube.com/watch?v=wkSA9bfCmKU&list=PL0b6OzIxLPbz1cgxiH5KCBsyQij1HsPtG)
+*   [Full Course](https://www.youtube.com/watch?v=wkSA9bfCmKU&list=PL0b6OzIxLPbz1cgxiH5KCBsyQij1HsPtG)
     
-*   []([https://www.youtube.com/watch?v=-qfEOE4vtxE](https://www.youtube.com/watch?v=DUiYVJIVNcA))
+*   [Make a website while learning Bootstrap]([https://www.youtube.com/watch?v=-qfEOE4vtxE](https://www.youtube.com/watch?v=DUiYVJIVNcA))
 
     
 
