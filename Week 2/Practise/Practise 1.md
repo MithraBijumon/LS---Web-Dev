@@ -1,7 +1,7 @@
 ## <a name="_xx8ub3ube50w"></a>**Practise 1: Task Tracker App**
 ### <a name="_hkjta7xovuj4"></a>**Project Statement:**
 **Build a simple Task Tracker (To-Do List) web app using React.**\
-` `The application should allow users to add, complete, delete, and filter tasks. This project helps practice React fundamentals such as components, state management, event handling, and conditional rendering.
+The application should allow users to add, complete, delete, and filter tasks. This project helps practice React fundamentals such as components, state management, event handling, and conditional rendering.
 ### <a name="_9gdizrl2trmx"></a>**Learning Outcomes:**
 - Understand React component structure
 - Manage state using *useState*
@@ -9,32 +9,32 @@
 - Conditionally render UI elements
 - Dynamically render lists using *.map()*
 ### <a name="_3snqo2bruo47"></a>**Requirements:**
-1. **Add Task:**\
+1. **Add Task:**
 
    1. An input field and a button to add a new task.
-1. **Display Tasks:**\
+1. **Display Tasks:**
 
    1. Show tasks in a list format with:
       1. Task name
       1. Checkbox or button to mark as completed
       1. Button to delete a task
-1. **Task Filters:**\
+1. **Task Filters:**
 
    1. Buttons to filter tasks: All, Active, Completed
-1. **Basic Styling:**\
+1. **Basic Styling:**
 
    1. Use CSS or inline styles to make the app visually clean.
 ### <a name="_175e54gwkdvk"></a>**Bonus (Optional):**
-1. **Add Due Dates & Priority Levels:**\
+1. **Add Due Dates & Priority Levels:**
 
 - Allow users to assign a **due date** and a **priority tag** (High, Medium, Low) to each task.
 - Sort tasks dynamically from **highest to lowest priority**, and optionally group or highlight tasks nearing their deadline.
-1. **Smart Completed Task Handling:**\
+1. **Smart Completed Task Handling:**
 
 - When a task is marked as completed:
   - Apply a **strikethrough and fade effect** (reduced opacity or transparent text)
   - Automatically **move it to the bottom** of the task list for better visibility of pending tasks.
-1. ` `**Integrated Task Timer:**\
+1. ` `**Integrated Task Timer:**
 
 - Enable users to set a **countdown timer** for individual tasks.
 - Useful for focus-based productivity techniques like the **Pomodoro Method**.
