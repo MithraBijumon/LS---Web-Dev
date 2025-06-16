@@ -38,7 +38,15 @@ For e.g. © 2025 YourName. Built with React.
 
 Follow basic good practices:
 
-<pre> ```plaintext src/ ├── components/ │ ├── Navbar.jsx │ ├── VideoCard.jsx │ └── Timer.jsx ├── data/ │ └── dummyVideos.js ├── App.jsx └── index.js ``` </pre>
+<pre> ```src/
+├── components/
+│   ├── Navbar.jsx
+│   ├── VideoCard.jsx
+│   └── Timer.jsx
+├── data/
+│   └── dummyVideos.js
+├── App.jsx
+└── index.js ``` </pre>
 
 
 ---
