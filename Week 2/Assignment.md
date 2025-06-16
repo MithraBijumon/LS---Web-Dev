@@ -82,8 +82,7 @@ export const videos = [
   // add more...
 ];
 ```
-You may generate and use placedholders from <a href="https://smalldev.tools/placeholder-image-generator-online" target="_blank">here</a>.
-## Deadline
+You may generate and use placedholders from [here](https://smalldev.tools/placeholder-image-generator-online)
 Submit by Deadline
 Push code to GitHub and share the link on the form we will provide.
 ## Notes
