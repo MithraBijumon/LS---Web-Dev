@@ -1,4 +1,4 @@
-﻿## <a name="_6gqh41kkurqg"></a>**Project 3: Memory Card Matching Game**
+﻿## <a name="_6gqh41kkurqg"></a>**Practice 3: Memory Card Matching Game**
 ### <a name="_wxi4tjuvun8e"></a>**Project Statement:**
 **Build an interactive Memory Card Game using React.**
 In this classic game, users flip over pairs of cards to find matching symbols or images. The game reinforces React concepts like dynamic rendering, state management, conditional UI updates, and handling timed user interactions — all while being engaging and visually fun.
