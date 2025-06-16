@@ -94,3 +94,4 @@ You may generate and use placedholders from [here](https://smalldev.tools/placeh
 - Keep the app simple, aesthetic, and functional
 
 Good luck! Feel free to ask doubts. Let’s build something cool 
+<p align="center"> Created with ❤️ by WnCC </p>
