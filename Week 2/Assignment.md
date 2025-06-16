@@ -82,3 +82,13 @@ export const videos = [
   },
   // add more...
 ];
+```
+You may generate and use placedholders from [here](https://smalldev.tools/placeholder-image-generator-online)
+## Deadline
+Submit by Deadline
+Push code to GitHub and share the link on the form we will provide.
+## Notes
+- You can use **Bootstrap** or **Tailwind** for styling — just mention what you used.
+- Make sure **everything runs without errors**
+- Keep the app simple, aesthetic, and functional
+Good luck! Feel free to ask doubts. Let’s build something cool 
