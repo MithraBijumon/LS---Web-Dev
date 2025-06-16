@@ -25,7 +25,7 @@ Create a **basic frontend-only YouTube-like video listing site** using **React J
   - A copyright line
   - Social media links (dummy)
   - A link to your GitHub repo
-  For e.g. © 2025 YourName. Built with React.
+For e.g. © 2025 YourName. Built with React.
 
 ### React Concepts
 
@@ -38,15 +38,7 @@ Create a **basic frontend-only YouTube-like video listing site** using **React J
 
 Follow basic good practices:
 
-src/
-├── components/
-│ ├── Navbar.jsx
-│ ├── VideoCard.jsx
-│ └── Timer.jsx
-├── data/
-│ └── dummyVideos.js
-├── App.jsx
-└── index.js
+<pre> ```plaintext src/ ├── components/ │ ├── Navbar.jsx │ ├── VideoCard.jsx │ └── Timer.jsx ├── data/ │ └── dummyVideos.js ├── App.jsx └── index.js ``` </pre>
 
 
 ---
