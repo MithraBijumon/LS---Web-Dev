@@ -58,7 +58,7 @@ How to try it:
 3. Paste it into [Download Directory](https://download-directory.github.io/)
 4. Extract the ZIP
 5. Open it in **VS Code**
-6. Complete the challeneges using React and Bootstrap
+6. Complete the challenges using React and Bootstrap
 
 ---
 
