@@ -25,6 +25,7 @@ Create a **basic frontend-only YouTube-like video listing site** using **React J
   - A copyright line
   - Social media links (dummy)
   - A link to your GitHub repo
+
 For e.g. © 2025 YourName. Built with React.
 
 ### React Concepts
@@ -91,4 +92,5 @@ Push code to GitHub and share the link on the form we will provide.
 - You can use **Bootstrap** or **Tailwind** for styling — just mention what you used.
 - Make sure **everything runs without errors**
 - Keep the app simple, aesthetic, and functional
+
 Good luck! Feel free to ask doubts. Let’s build something cool 
