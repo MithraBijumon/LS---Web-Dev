@@ -1,4 +1,4 @@
-﻿## <a name="_fdcwtc1d520z"></a>**Project 2: Interactive Quiz App**
+﻿## <a name="_fdcwtc1d520z"></a>**Practice 2: Interactive Quiz App**
 ### <a name="_i49kr93qrc79"></a>**Project Statement:**
 **Build a dynamic and responsive Quiz Application using React.**
 The app should present a series of multiple-choice questions to the user, allow them to select answers, and provide feedback or a final score upon completion. This project reinforces key React concepts such as component-based architecture, state management, conditional rendering, and event handling.
