@@ -84,9 +84,10 @@ export const videos = [
 ```
 You may generate and use placedholders from [here](https://smalldev.tools/placeholder-image-generator-online)
 
-## Deadline
+## Deadline and Submission
 - Submit by Deadline
 - Push code to GitHub and share the link on the form we will provide.
+- Also make a video of all the features of the site and upload that in the form too.
 
 ## Notes
 - You can use **Bootstrap** or **Tailwind** for styling — just mention what you used.
