@@ -21,10 +21,10 @@ Create a **basic frontend-only YouTube-like video listing site** using **React J
   - Views + Time info (for e.g. 1.2M views · 2 days ago)
 - The video cards should be aligned using **Flexbox** or **CSS Grid**
 - A **Footer** (optional, but encouraged). The footer is optional but good practice for completeness. It can include:
-   -Your name or team name
-   -A copyright line
-   -Social media links (dummy)
-   -A link to your GitHub repo
+  - Your name or team name
+  - A copyright line
+  - Social media links (dummy)
+  - A link to your GitHub repo
   For e.g. © 2025 YourName. Built with React.
 
 ### React Concepts
