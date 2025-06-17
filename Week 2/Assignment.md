@@ -1,4 +1,4 @@
-#Week 2 Assignment: Build a Mini YouTube Clone (Frontend Only)
+# Week 2 Assignment: Build a Mini YouTube Clone (Frontend Only)
 
 ## Objective
 
