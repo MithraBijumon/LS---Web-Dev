@@ -22,6 +22,11 @@ You'll be introduced to backend this week. But before that let's delve into why 
 
 ---
 
+### Django: The Main Framework
+We’ll be using Django, a powerful Python web framework, to build the backend. Go through [**this**]() doument to make yourselves comfortable with django.
+
+---
+
 ### Practice Folder
 We’ve added a **Practice Folder** this week to help you get hands-on with Python backend exercises.  
 You can clone the repo, run the examples, and try modifying them for better understanding.
