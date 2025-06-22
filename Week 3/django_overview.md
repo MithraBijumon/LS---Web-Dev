@@ -1,4 +1,4 @@
-# 🐍 What is Django?
+# 💻 What is Django?
 
 **Django** is a high-level Python web framework that promotes rapid development and clean, pragmatic design. Built by experienced developers, Django takes care of much of the hassle of web development, so you can focus on writing your app without reinventing the wheel.
 
@@ -81,7 +81,7 @@ python manage.py createsuperuser
 
 ---
 
-## 🐍 Django Video Learning Resources
+## 💻 Django Video Learning Resources
 
 - 🔹 [Django One Shot in English](https://youtu.be/PtQiiknWUcI?si=7eenzVR29bCYD-0P)
 
@@ -112,65 +112,89 @@ python manage.py createsuperuser
 
 # ⚡️ Django REST API & JWT Authentication – Secure Your Backend Like a Pro
 
-## 🔍 What is Django REST Framework (DRF)?
+Welcome to **Week 3** of your Web Development journey. In this phase, you will explore how the backend powers full-stack applications, how REST APIs work, and how to secure them using token-based authentication such as **JWT**.
+
+You’ll use **Django REST Framework (DRF)** — a powerful extension to Django that simplifies building RESTful APIs — and then secure those APIs with stateless JWT authentication, just like modern production apps.
+
+---
+
+## 🔒 Django REST API – Understanding the Backend
+
+### 🔍 What is Django REST Framework (DRF)?
 
 Django REST Framework is a toolkit that helps you build Web APIs using Django models and views. It allows your backend to communicate with the frontend (React here) or even external services by exposing JSON data over HTTP.
 
 It works by converting your Django models into serializable data (like JSON), which can then be accessed and modified by API views and routes.
 
-### 🔑 Key Components:
-- **Serializers** – Convert Django models to/from JSON
-- **API Views** – Endpoints that respond with data, not HTML
-- **Routers** – Automatically generate URLs for views
-- **Browsable Interface** – Lets you test APIs in your browser
+**Key components:**
 
-Once you’ve defined your models and serializers, DRF allows you to perform CRUD operations — Create, Read, Update, and Delete — through standard HTTP methods (GET, POST, PUT, DELETE).
+- **Serializers** – Convert Django models to/from JSON.  
+- **API Views** – Endpoints that respond with data, not HTML.  
+- **Routers** – Automatically generate URLs for views.  
+- **Browsable Interface** – You can test your API in a web browser.
+
+Once you’ve defined your models and serializers, DRF allows you to perform **CRUD operations** — Create, Read, Update, and Delete — through standard HTTP methods (`GET`, `POST`, `PUT`, `DELETE`).
 
 ---
 
 ## 🔐 Authentication in Django REST Framework
 
 ### 🔍 How Does Authentication Work in APIs?
-Authentication ensures that a user is who they claim to be. Django REST Framework provides multiple authentication mechanisms:
 
-- **Session Authentication** – Uses Django’s default session and cookies
-- **Basic Authentication** – Credentials passed with every request
-- **Token Authentication** – Unique token passed in headers with requests
+Authentication ensures that a user is who they claim to be. In web apps, authentication protects user data and prevents unauthorized access.
 
----
+Django REST Framework provides multiple authentication mechanisms:
 
-## 📘 Resources for Django REST API
+- **Session Authentication**  
+  Based on Django’s default session and cookie system — best for websites using Django templates.
 
-- 📖 [DRF Authentication Guide](https://www.django-rest-framework.org/api-guide/authentication/)
-- 📖 [Google Doc Guide](https://docs.google.com/document/d/1OmpeaJ5taUpJBPYLTr6krOwfuiGiyfkljJD3OjDbu9o/edit?usp=sharing)
-- ▶️ [Video (Overview)](https://youtu.be/OTnuTerIUlo?si=LaEySnVLjiVPR3RX)
-- ▶️ [Crash Course – English](https://youtu.be/NoLF7Dlu5mc?si=1qT6PcJGLSui5M0a)
-- ▶️ [Full Tutorial – English](https://youtu.be/t-uAgI-AUxc?si=4tNm0zH8sn-pXbwe)
-- ▶️ [Playlist – Hindi](https://youtu.be/DNFTUtZf1Zc?si=eYclIuA4hJ_mBJcC)
+- **Basic Authentication**  
+  Credentials are passed with each request — simple but insecure if not used with HTTPS.
+
+- **Token Authentication**  
+  Users receive a unique token after login and must include it in the `Authorization` header of all protected requests.
 
 ---
 
-# 🔑 JWT Authentication – Stateless and Secure Login System
+## 📘 Resources
 
-## 🔍 What is JWT and Why Use It?
+### 📘 Reading Resource (GeeksforGeeks)
+[Google Doc Link](https://docs.google.com/document/d/1OmpeaJ5taUpJBPYLTr6krOwfuiGiyfkljJD3OjDbu9o/edit?usp=sharing)
 
-JWT (JSON Web Token) is a modern, stateless, token-based authentication system. It’s especially useful when you're building APIs accessed by JavaScript apps, mobile apps, or other clients.
+### ▶️ Videos
+
+- [Must-Watch Intro Video](https://youtu.be/OTnuTerIUlo?si=LaEySnVLjiVPR3RX)
+- [Django REST API Crash Course (English)](https://youtu.be/NoLF7Dlu5mc?si=1qT6PcJGLSui5M0a)
+- [Full Django REST API Tutorial (English)](https://youtu.be/t-uAgI-AUxc?si=4tNm0zH8sn-pXbwe)
+- [Django REST API Playlist (Hindi)](https://youtu.be/DNFTUtZf1Zc?si=eYclIuA4hJ_mBJcC)
+
+---
+
+## 🔑 JWT Authentication – Stateless and Secure Login System
+
+### 🔍 What is JWT and Why Use It?
+
+**JWT (JSON Web Token)** is a modern, stateless, token-based authentication system. It’s especially useful when you're building APIs that need to be accessed by JavaScript apps, mobile apps, or other frontend clients.
 
 When a user logs in, the server returns:
-- **Access Token** – Used for authenticating each request (short-lived)
-- **Refresh Token** – Used to obtain a new access token when expired
+
+- **Access Token** – Used for authentication on each API request (short-lived)
+- **Refresh Token** – Used to generate new access tokens when the original one expires
 
 ---
 
 ## 📘 JWT Authentication Resources
 
-- 📖 [DRF Auth Docs](https://www.django-rest-framework.org/api-guide/authentication/)
-- ▶️ [JWT Auth – English](https://youtu.be/Xp0-Yy5ow5k?si=4_Qphsne0T2jhCn0)
-- ▶️ [JWT Auth – Hindi](https://youtu.be/fXOKBbnMQow?si=iOHoNpMTULFgAAID)
+### 📘 Reading Guide  
+[DRF Official Authentication Docs](https://www.django-rest-framework.org/api-guide/authentication/)
+
+### ▶️ Videos
+
+- [JWT Authentication in Django REST Framework (English)](https://youtu.be/Xp0-Yy5ow5k?si=4_Qphsne0T2jhCn0)
+- [JWT Authentication in Django (Hindi)](https://youtu.be/fXOKBbnMQow?si=iOHoNpMTULFgAAID)
 
 ---
 
-🧡 *Created with ❤️ by WnCC*
-
-**Stay consistent. Practice daily. Your backend journey has just begun.**
+🧡 *Created with ❤️ by WnCC*  
+Stay consistent. Practice daily. Your backend journey has just begun.
 
