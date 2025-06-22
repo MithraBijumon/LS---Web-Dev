@@ -105,7 +105,7 @@ python manage.py createsuperuser
 - 📖 [W3Schools Django](https://www.w3schools.com/django/)
 - 📖 [GeeksforGeeks Django](https://www.geeksforgeeks.org/python/django-tutorial/)
 
-
+## Optional Guided Video
 - 🎓 [Guided Project (Optional)](https://youtu.be/Bu8_77S9w6g?si=2JkmBAfOZ3bWzmJr)
 
 ---
