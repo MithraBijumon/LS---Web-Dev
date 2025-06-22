@@ -18,7 +18,7 @@ If you're new to Python or want a refresher, make sure to go through the [**Pyth
 
 ### Why Backend?
 Frontend lets users *see and interact*, but backend brings apps to life — **handling data, logic, authentication, and more.**  
-You'll be introduced to backend this week. But before that let's delve into why it's important [**here**]().
+You'll be introduced to backend this week. But before that let's delve into why it's important [**here**](Why%20Backend%3F.md).
 
 ---
 
