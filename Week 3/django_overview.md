@@ -195,6 +195,8 @@ When a user logs in, the server returns:
 
 ---
 
-<p align="center">Created with ❤️ by WnCC</p>  
 Stay consistent. Practice daily. Your backend journey has just begun.
+
+<p align="center">Created with ❤️ by WnCC</p>  
+
 
