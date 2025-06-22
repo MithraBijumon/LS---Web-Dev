@@ -51,3 +51,4 @@ In this week and the next, you’ll be introduced Django as part of the backend 
 ---
 
 **Happy Coding!**
+<p align="center">Created with ❤️ by WnCC</p>
