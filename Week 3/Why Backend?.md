@@ -31,28 +31,14 @@ When you’re ready to start building real web applications, frameworks like the
 
 ## Tools You’ll Encounter
 
-- **Jinja2**: Templating engine used by Flask/Django
 - **SQLite/PostgreSQL/MongoDB**: Databases commonly used in Python apps
-- **Gunicorn/Uvicorn**: WSGI/ASGI servers to run Python web apps
-- **Postman**: API testing
 - **Virtualenv** or **Pipenv**: Managing Python environments
 - **Git & GitHub**: For version control and collaboration
 
 ---
 
-## What’s Next?
 
-After understanding the frameworks and building small projects, move on to:
-
-- API design (using Flask/FastAPI)
-- Authentication & Authorization
-- Web security practices (XSS, CSRF, HTTPS)
-- Deployment on platforms like **Render**, **Vercel**, or **Heroku**
-- Using **Docker** and **CI/CD pipelines** (GitHub Actions, etc.)
-
----
-
-## Integration with Our Course
+## Checklist
 
 In this week and the next, you’ll be introduced Django as part of the backend section. Make sure you're clear with:
 
