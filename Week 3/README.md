@@ -12,7 +12,7 @@ This week, we’re entering the **Backend world** — where your apps become tru
 ### Python Basics
 If you're new to Python or want a refresher, make sure to go through the [**Python Basics**](./Basics%20of%20Python.md) section in the content. It covers everything you’ll need to comfortably get started with backend frameworks.
 
-> You can also brush through the core web dev concepts [**here**](./Why%20Backend%3F.md)
+> You can also brush through the core web dev concepts [**here**](./Core%20Web%20Dev%20Concepts.md)
 
 ---
 
