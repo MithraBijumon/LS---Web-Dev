@@ -26,5 +26,11 @@ Before diving into the web stack, make sure you're comfortable with the basics o
 - [File handling](https://www.geeksforgeeks.org/python/file-handling-python/) : `open`, `read`, `write`
 - [Libraries](https://www.geeksforgeeks.org/libraries-in-python/) 
 
+If you prefer videos over text then follow the below links to learn python:
+- English
+  -   [**Full Course**](https://www.youtube.com/watch?v=b093aqAZiPU&t=1974s)
+- Hindi
+  -   [**Full Course**](https://www.youtube.com/watch?v=kqtD5dpn9C8)
+  -   [**A more in depth video**](https://www.youtube.com/watch?v=rfscVS0vtbw)
 ---
 <p align="center">Created with ❤️ by WnCC</p>
