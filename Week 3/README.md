@@ -45,3 +45,6 @@ The **Week 3 Assignment** is now live and focuses entirely on **backend concepts
 
 **You’ve built the face of the web… now let’s build its brain**  
 **Coders. Together. Strong. 🔥**
+
+---
+<p align="center">Created with ❤️ by WnCC</p>
