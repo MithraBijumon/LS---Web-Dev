@@ -5,6 +5,12 @@ Hope you're all doing great and excited to begin **Week 3** of *Full Stack Pro: 
 
 This week, we’re entering the **Backend world** — where your apps become truly dynamic and powerful!
 
+> Hey guys.. We know backend might feel heavy or intimidating at first ..it was to us too initially and to be honest that’s okay!
+
+You don’t have to learn everything at once. Break it into smaller concepts, implement each one step-by-step, and combine them gradually.
+
+If you’re unable to complete everything this week, don’t worry — Week 4 is also focused on backend + integration. We’ve intentionally kept Week 4 light so you have time to catch up and finish smoothly.
+
 ---
 
 ## What’s in Store This Week?
@@ -17,7 +23,7 @@ If you're new to Python or want a refresher, make sure to go through the [**Pyth
 ---
 
 ### Why Backend?
-Frontend lets users *see and interact*, but backend brings apps to life — **handling data, logic, authentication, and more.**  
+Frontend lets users *see and interact*, but backend brings apps to life — **handling data, logic, authentication, aand more.**  
 You'll be introduced to backend this week. But before that let's delve into why it's important [**here**](Why%20Backend%3F.md).
 
 ---
