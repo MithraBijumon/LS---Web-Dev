@@ -158,8 +158,8 @@ Django REST Framework provides multiple authentication mechanisms:
 
 ## 📘 Resources
 
-### 📘 Reading Resource (GeeksforGeeks)
-[Google Doc Link](https://docs.google.com/document/d/1OmpeaJ5taUpJBPYLTr6krOwfuiGiyfkljJD3OjDbu9o/edit?usp=sharing)
+### 📘 Reading Resource
+[GeeksforGeeks](https://www.geeksforgeeks.org/node-js/rest-api-introduction/)
 
 ### ▶️ Videos
 
