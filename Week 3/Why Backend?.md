@@ -9,7 +9,7 @@ Understanding how the web works is crucial before jumping into any framework.
 - [**HTTP protocol**](https://www.geeksforgeeks.org/html/what-is-http/) — requests, responses, status codes, headers
 - [**Web servers**](https://www.geeksforgeeks.org/node-js/web-server-and-its-type/) — how they serve content (e.g., Nginx, Apache)
 - [**Client-side vs Server-side**](https://www.geeksforgeeks.org/websites-apps/server-side-client-side-programming/)
-- [**Basic frontend-backend communication**](https://www.geeksforgeeks.org/blogs/how-to-connect-front-end-and-backend/) (Just brush through the concepts and no need to go in depth here or optionally for a more intuitive understanding without the code parts, you can read [**this**](https://websitehurdles.com/how-to-connect-frontend-and-backend/)
+- [**Basic frontend-backend communication**](https://www.geeksforgeeks.org/blogs/how-to-connect-front-end-and-backend/) (Just brush through the concepts and no need to go in depth here or optionally for a more intuitive understanding without the code parts, you can read [**this**](https://websitehurdles.com/how-to-connect-frontend-and-backend/))
 
 > This knowledge helps you build dynamic web pages and understand frontend-backend integration.
 
@@ -32,7 +32,7 @@ When you’re ready to start building real web applications, frameworks like the
 ## Tools You’ll Encounter
 
 - **Jinja2**: Templating engine used by Flask/Django
-- **SQLite/PostgreSQL**: Databases commonly used in Python apps
+- **SQLite/PostgreSQL/MongoDB**: Databases commonly used in Python apps
 - **Gunicorn/Uvicorn**: WSGI/ASGI servers to run Python web apps
 - **Postman**: API testing
 - **Virtualenv** or **Pipenv**: Managing Python environments
@@ -40,7 +40,7 @@ When you’re ready to start building real web applications, frameworks like the
 
 ---
 
-## 🚀 What’s Next?
+## What’s Next?
 
 After understanding the frameworks and building small projects, move on to:
 
@@ -52,17 +52,16 @@ After understanding the frameworks and building small projects, move on to:
 
 ---
 
-## 🧩 Integration with Our Course
+## Integration with Our Course
 
-In the coming weeks, you’ll be introduced to Flask or Django as part of the backend section. Make sure you're clear with:
+In this week and the next, you’ll be introduced Django as part of the backend section. Make sure you're clear with:
 
 - Python syntax and OOP
 - Web fundamentals (HTML, CSS, JS)
 - Basic terminal and Git usage
 
-> ✅ Start brushing up now so you're ready for the backend journey!
+> Start brushing up now so you're ready for the backend journey! Try the assignment or the practice questions to learn while doing.
 
 ---
 
-**Happy Hacking! 🐍💻**
-If you face any issues or have questions, don’t hesitate to ask in the group. We’re here to help you grow.
+**Happy Coding!**
