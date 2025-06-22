@@ -84,16 +84,17 @@ python manage.py createsuperuser
 ## 🐍 Django Video Learning Resources
 
 - 🔹 [Django One Shot in English](https://youtu.be/PtQiiknWUcI?si=7eenzVR29bCYD-0P)
-Follow this timeline:
-   | **Topic**                      | **Time Start**         |
-|-------------------------------|------------------------|
-| What is Django                | 5:27                   |
-| Installation & Setup          | 15:59                  |
-| Views & URLs                  | 31:28                  |
-| Templates                     | 39:55                  |
-| Admin Panel & Database        | 1:04:25                |
-| CRUD Operations               | 1:39:00                |
-| User Auth (Login, Logout)     | 2:22:27 → 2:39:03      |
+
+   Follow this timeline:
+   | **Topic**                     | **Time Start**         |
+   |-------------------------------|------------------------|
+   | What is Django                | 5:27                   |
+   | Installation & Setup          | 15:59                  |
+   | Views & URLs                  | 31:28                  |
+   | Templates                     | 39:55                  |
+   | Admin Panel & Database        | 1:04:25                |
+   | CRUD Operations               | 1:39:00                |
+   | User Auth (Login, Logout)     | 2:22:27 → 2:39:03      |
 
 - 🔹 [Basic Overview in English (after 22:00 min)](https://youtu.be/rHux0gMZ3Eg?si=0TB_P5_seRAXyGIC)
 - 🔹 [Admin Panel](https://youtu.be/iLhcV7t3zug?si=nGbxyNHy25nV-kPh)
