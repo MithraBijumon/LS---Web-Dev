@@ -33,6 +33,8 @@ Backend development ensures that a web app runs correctly, securely, and efficie
 - Developers ensure that the app runs smoothly on platforms like **Heroku**, **Vercel**, **AWS**, etc.
 
 ---
+<p align="center">Created with ❤️ by WnCC</p>
+---
 
 In essence, backend development is the **foundation** upon which modern websites and applications are built.  
 Without it, a frontend has **no data**, **no logic**, and **no power.**
