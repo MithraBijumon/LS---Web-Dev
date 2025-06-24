@@ -31,7 +31,9 @@ Build a **functional Django backend** that enables:
 
 ### ✅ 2. Simulated Email Verification
 - After registration, user redirected to a verification route:
+```
 /verify/<token>
+```
 - No actual email sent — simulated with console backend or dummy view
 - Success message displayed: _“Account Verified Successfully”_
 
@@ -75,6 +77,7 @@ Build a **functional Django backend** that enables:
 
 ## 🗂 Folder Structure
 
+```
 youtube_auth/
 ├── manage.py
 ├── youtube_auth/
@@ -91,7 +94,7 @@ youtube_auth/
 │ ├── login.html
 │ ├── dashboard.html
 │ └── verify.html
-
+```
 ---
 
 ## 💎 Bonus Features (Optional)
