@@ -1,10 +1,10 @@
-# 🎬 Week 3 Assignment – Django Backend for YouTube Clone
+# Week 3 Assignment – Django Backend for YouTube Clone
 
 Welcome to the backend era! This week, we're bringing your Week 2 YouTube Clone UI to life using Django.
 
 ---
 
-## 🚀 Objective
+## Objective
 
 Build a **functional Django backend** that enables:
 
@@ -18,9 +18,9 @@ Build a **functional Django backend** that enables:
 
 ---
 
-## 📦 Features Implemented
+## Features Implemented
 
-### 📝 1. User Registration
+### 1. User Registration
 - Fields: `username`, `email`, `password`, `confirm password`
 - Validations:
   - Email must be unique
@@ -29,7 +29,7 @@ Build a **functional Django backend** that enables:
 
 ---
 
-### ✅ 2. Simulated Email Verification
+### 2. Simulated Email Verification
 - After registration, user redirected to a verification route:
 ```
 /verify/<token>
@@ -39,21 +39,22 @@ Build a **functional Django backend** that enables:
 
 ---
 
-### 🔐 3. Login + Logout
+### 3. Login + Logout
 - Used Django’s `authenticate()` and `login()`
 - Handled wrong credentials with clear error messages
 - Implemented logout functionality
 
 ---
 
-### 🔒 4. Protected Dashboard
+### 4. Protected Dashboard
 - Created a `/dashboard` view
 - Used `@login_required` decorator
 - Redirects unauthenticated users to login page
 
 ---
 
-### ⚙️ 5. Django Admin Setup (✅ Mandatory)
+### 5. Django Admin Setup (Mandatory)
+> This is often ignored — don’t skip it!
 - Registered all relevant models in `admin.py`
 - Added:
 - `list_display`
@@ -64,7 +65,7 @@ Build a **functional Django backend** that enables:
 
 ---
 
-### 🖼️ 6. Styled HTML Pages
+### 6. Styled HTML Pages
 - Used Bootstrap for clean forms & UI
 - Styled pages:
 - `register.html`
@@ -75,7 +76,7 @@ Build a **functional Django backend** that enables:
 
 ---
 
-## 🗂 Folder Structure
+## Folder Structure
 
 ```
 youtube_auth/
@@ -97,18 +98,18 @@ youtube_auth/
 ```
 ---
 
-## 💎 Bonus Features (Optional)
-- ✅ Django Messages: _“User created successfully ✅”_
-- 🖼️ Profile image field (`ImageField` saved to `media/`)
-- 🎬 Watch Later simulation using Django sessions
-- ⏳ Loading animation for login/register pages
+## Bonus Features (Optional)
+- Django Messages: _“User created successfully ✅”_
+- Profile image field (`ImageField` saved to `media/`)
+- Watch Later simulation using Django sessions
+- Loading animation for login/register pages
 
 ---
 
-## 📤 Submission
+## Submission
 
-- ✅ GitHub Repo: [your-repo-link]
-- ✅ Short Video Walkthrough:
+- GitHub Repo:
+- Short Video Walkthrough:
   - Registration + Verification flow
   - Login + Protected Dashboard
   - Django Admin showcase
@@ -116,11 +117,11 @@ youtube_auth/
 
 ---
 
-## ✅ Requirements
+## Requirements
 
-- No code errors ❌
-- Clean, styled templates 🌟
-- Admin panel production-ready 🛠️
+- No code errors 
+- Clean, styled templates 
+- Admin panel production-ready 
 
 ---
 
