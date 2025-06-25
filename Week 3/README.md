@@ -36,7 +36,7 @@ We’ll be using Django, a powerful Python web framework, to build the backend. 
 
 ### Assignment
 
-The [**Week 3 Assignment**](Week%203/Assignment.md) is now live and focuses entirely on **backend concepts** — like handling data.
+The [**Week 3 Assignment**](./Assignment.md) is now live and focuses entirely on **backend concepts** — like handling data.
 
 > This is a **crucial part** of your final project. In Week 4, you’ll combine this backend with your frontend to create a full-stack app.
 
