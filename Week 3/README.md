@@ -31,19 +31,12 @@ You'll be introduced to backend this week. But before that let's delve into why 
 ### Django: The Main Framework
 We’ll be using Django, a powerful Python web framework, to build the backend. Go through [**this**](Django%20Overview.md) doument to make yourselves comfortable with django.
 
----
-
-### Practice Folder
-We’ve added a **Practice Folder** this week to help you get hands-on with Python backend exercises.  
-You can clone the repo, run the examples, and try modifying them for better understanding.
-
-> Don’t skip this — backend makes more sense when you actually build and break things yourself!
 
 ---
 
-## Assignment
+### Assignment
 
-The **Week 3 Assignment** is now live and focuses entirely on **backend concepts** — like handling data.
+The [**Week 3 Assignment**](Week%203/Assignment.md) is now live and focuses entirely on **backend concepts** — like handling data.
 
 > This is a **crucial part** of your final project. In Week 4, you’ll combine this backend with your frontend to create a full-stack app.
 
