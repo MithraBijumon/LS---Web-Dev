@@ -49,13 +49,13 @@ There are two main categories:
     - Lets you use Python methods to create, read, update, and delete database entries (instead of SQL queries like SELECT * FROM users WHERE ...)
     - Makes your code cleaner, safer, and easier to maintain
 Example (using Django ORM):
-'''
+```
 # Traditional SQL
 SELECT * FROM users WHERE id = 1;
 
 # Django ORM
 User.objects.get(id=1)
-'''
+```
 Why use ORMs?
     - Write less and cleaner code
     - Avoid SQL injection automatically
