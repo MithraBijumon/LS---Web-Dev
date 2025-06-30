@@ -1,6 +1,6 @@
 # WEEK 4 — Introduction to Databases for Back-End Development
 
-Hey Coders! ✨
+Hey Coders!
 
 You’ve built your frontend, explored backend with Django, and now it's time to understand the engine that drives all your app's data — **Databases**.
 
@@ -8,14 +8,14 @@ Many of you might find databases a bit intimidating at first, but don’t worry 
 
 ---
 
-## 📦 What Is a Database?
+## What Is a Database?
 A **database** is a structured collection of data that can be easily accessed, managed, and updated. It's the permanent memory of your application, storing everything from user credentials to uploaded videos.
 
 In back-end development, databases provide **data persistence**, **security**, and **efficient querying** — all of which are critical for any real-world application.
 
 ---
 
-## 🧠 Types of Databases
+## Types of Databases
 There are two main categories:
 
 ### 1. **Relational Databases (SQL)**
@@ -33,7 +33,7 @@ There are two main categories:
 
 ---
 
-## 🔑 Core Concepts
+## Core Concepts
 - **Tables and Schemas**: In relational databases, tables hold data in rows and columns. A schema defines the structure — like what fields exist, their data types, and any constraints.
 - **Primary & Foreign Keys**: A primary key uniquely identifies each row in a table. Foreign keys create links between tables, helping maintain relationships and ensure data integrity.
 - **CRUD**: These are the 4 main database operations — Create (add data), Read (fetch data), Update (modify data), and Delete (remove data).
@@ -42,7 +42,7 @@ There are two main categories:
 
 ---
 
-## 🧰 Tools & Technologies
+## Tools & Technologies
 - **DBMS**: Database Management Systems like PostgreSQL (open-source SQL DB), MySQL (widely-used SQL DB), and MongoDB (NoSQL document store).
 - **ORMs**: Tools like Django ORM, SQLAlchemy (Python), and Sequelize (Node.js) let you write Python/JS code instead of SQL queries, simplifying DB interaction. An ORM, or Object-Relational Mapper, is a tool that allows you to interact with your database using the same language you're coding in — like Python — instead of writing raw SQL queries. Here's what it does:
     - Converts Python classes ↔ database tables
@@ -65,7 +65,7 @@ Why use ORMs?
 
 ---
 
-## 🐘 Intro to PostgreSQL
+## Intro to PostgreSQL
 **PostgreSQL** is one of the most powerful and widely used **open-source SQL databases**. 
 
 - Known for reliability, performance, and standards compliance
@@ -79,7 +79,7 @@ Why use ORMs?
 
 ---
 
-## 🚧 Backend Architecture — How Databases Fit In
+## Backend Architecture — How Databases Fit In
 A backend isn’t just code — it’s a structure made up of multiple working parts:
 
 - **Server**: Handles incoming client requests and runs your backend logic (e.g. login, data processing)
@@ -95,7 +95,7 @@ Common backend architectures:
 
 ---
 
-## 🚀 Why You NEED a Backend Database
+## Why You NEED a Backend Database
 - Store & retrieve persistent data
 - Power features like login, comments, uploads
 - Maintain consistency and handle scale
@@ -103,7 +103,7 @@ Common backend architectures:
 
 ---
 
-## 👣 Beginner’s Roadmap to Databases
+## Beginner’s Roadmap to Databases
 1. Learn basic SQL commands (SELECT, INSERT, etc.)
 2. Set up PostgreSQL locally
 3. Understand schema and relationships
@@ -113,7 +113,7 @@ Common backend architectures:
 
 ---
 
-## 💡 Best Practices
+## Best Practices
 - Normalize data (avoid duplication)
 - Use parameterized queries to prevent SQL injection
 - Backup data regularly
@@ -122,7 +122,7 @@ Common backend architectures:
 
 ---
 
-## 📚 Resources to Explore Further if you are interested... but for now we'll focus no postgress
+## Resources to Explore Further if you are interested... but for now we'll focus no postgress
 ### Written Resources
 - [GeeksforGeeks SQL Basics](https://www.geeksforgeeks.org/sql-tutorial/)
 - [PostgreSQL Docs](https://www.postgresql.org/docs/)
