@@ -1,4 +1,4 @@
-# Dockerizing a Django App with PostgreSQL
+# Dockerizing a Django App with PostgreSQL (Optional)
 
 This guide explains step-by-step how to Dockerize a Django app using PostgreSQL as the database, with references to useful video tutorials.
 
