@@ -118,7 +118,7 @@ DATABASES = {
 ```
 
 ## Resources
-
+For a comprehensive understanding of this concept, refer to the following resource.
 ### In Hindi
 - [How to connect PostgreSQL with Django (Hindi)](https://youtu.be/5EY6JFptZgw?si=i3otQPYFDtKCiqO2)
 
