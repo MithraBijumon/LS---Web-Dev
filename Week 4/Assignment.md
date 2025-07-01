@@ -165,10 +165,8 @@ APIs to:
 
 #Optional Features 
 
->PostgreSQL database 
+###PostgreSQL database :You can add  PostgreSQL database  to store Username, Email, Password (hashed), Date joined(optional), etc. It stores user credentials, video metadata, user-video links, all videos for home, user-specific videos for dashboard, single video details, watch later lists, comments, likes/dislikes, and supports search and filters using relational queries.
 
-You can add  PostgreSQL database  to store Username, Email, Password (hashed), Date joined(optional), etc. It stores user credentials, video metadata, user-video links, all videos for home, user-specific videos for dashboard, single video details, watch later lists, comments, likes/dislikes, and supports search and filters using relational queries.
+###Dockerize :  YouTube Clone project built with React (frontend), Django (backend), and PostgreSQL (database) can be fully Dockerized, this is totally your choice to do it .
 
->Dockerize :  YouTube Clone project built with React (frontend), Django (backend), and PostgreSQL (database) can be fully Dockerized, this is totally your choice to do it .
-
->Deployment :  you can deploy your Dockerized YouTube Clone website on hosting platforms that support containers or web apps. Here are a few popular hosting options like Render,Railway,Fly.io.
+###Deployment :  you can deploy your Dockerized YouTube Clone website on hosting platforms that support containers or web apps. Here are a few popular hosting options like Render,Railway,Fly.io.
