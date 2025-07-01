@@ -15,7 +15,7 @@ You’ve come a long way — from learning HTML/CSS to building full-fledged Rea
 
 Go thorugh the resources for this week:
 
-1. [`Introduction to Databases Guide`](./Introduction%20to%20Databases.md) — Explains what databases are, SQL vs NoSQL, PostgreSQL basics
+1. [`Introduction to Databases`](./Introduction%20to%20Databases.md) — Explains what databases are, SQL vs NoSQL, PostgreSQL basics
 2. [`More about Postgre SQL`](./PostgreSQL.md) — How to use it and connect it with Django
 3. [`Deployment Guide`](./Deployment%20Guide.md) — How to deploy your Django app, project video tutorials
 4. [`Docker`](./Docker.md) — An optional section on Docker
