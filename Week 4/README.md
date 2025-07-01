@@ -17,7 +17,7 @@ Go thorugh the resources for this week:
 
 1. [`Introduction to Databases`](./Introduction%20to%20Databases.md) — Explains what databases are, SQL vs NoSQL, PostgreSQL basics
 2. [`More about Postgre SQL`](./PostgreSQL.md) — How to use it and connect it with Django
-3. [`Deployment Guide`](./Deployment%20Guide.md) — How to deploy your Django app, project video tutorials
+3. [`Deployment Guide`](./Deployment%20Guide.md) — How to deploy your Django app, video tutorials
 4. [`Docker`](./Docker.md) — An optional section on Docker
 
 These guides are beginner-friendly and gets you started on databases.
