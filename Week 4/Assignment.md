@@ -170,7 +170,7 @@ APIs to:
 
 ---
 
-# Optional Features 
+# Optional
 
 ### PostgreSQL database :
 You can add  PostgreSQL database  to store Username, Email, Password (hashed), Date joined(optional), etc. It stores user credentials, video metadata, user-video links, all videos for home, user-specific videos for dashboard, single video details, watch later lists, comments, likes/dislikes, and supports search and filters using relational queries.
