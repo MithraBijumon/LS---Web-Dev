@@ -24,9 +24,9 @@ These guides are beginner-friendly and gets you started on databases.
 
 ---
 
-## FINAL PROJECT — [`Assignment`](./Assignment.md)
+## FINAL PROJECT 
 
-This week’s assignment is your **final full-stack app** — it brings together:
+This week’s assignment — [`Assignment`](./Assignment.md) is your **final full-stack app** — it brings together:
 
 - Frontend (React/Bootstrap/Tailwind)
 - Backend (Django with REST API)
