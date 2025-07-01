@@ -161,10 +161,6 @@ APIs to:
 - Comment Section
 - Video Categories/Tags
 - Search Functionality
-- 
-Can add these three dot options(optional)
-![image](https://github.com/user-attachments/assets/7a3459d5-de5c-488d-9819-60058e1580bd)
-
 
 ---
 
