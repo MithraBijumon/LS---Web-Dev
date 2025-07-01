@@ -9,6 +9,9 @@ Build a simple YouTube-like application with the ability to:
 - View a list of uploaded videos  
 - Watch videos on a dedicated video player page  
 - Basic Navbar and Sidebar for navigation
+- Able to share, like, subscribe and add to watch later 
+
+Try to create as similar as possible with functionality
 
 ---
 
@@ -129,6 +132,7 @@ APIs to:
 - **VideoPlayer**: watch selected video  
 - **Dashboard**: user's uploaded videos
 - **Watch later**:
+- **Playlist**
 
 ####  Routing
 
@@ -140,7 +144,7 @@ APIs to:
 
 ####  Basic Styling
 
-- Keep minimal styling with Bootstrap or CSS  
+- Keep impressive styling with Bootstrap or CSS  
 - Optional: Add your own creativity for UI improvements
 
 ---
@@ -154,6 +158,13 @@ APIs to:
 - Dashboard to show user’s uploaded videos  
 - Navbar + Sidebar for navigation  
 - Watch Later functionality, like and share.(compulsory)
+- Comment Section
+- Video Categories/Tags
+- Search Functionality
+- 
+Can add these three dot options(optional)
+![image](https://github.com/user-attachments/assets/7a3459d5-de5c-488d-9819-60058e1580bd)
+
 
 ---
 
